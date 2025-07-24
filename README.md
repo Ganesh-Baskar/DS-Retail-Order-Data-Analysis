@@ -25,12 +25,12 @@ This project focuses on extracting meaningful patterns from rental transactions.
 🔧 Technologies Used
 
 | Tool | Purpose | 
-| Python | Data manipulation (Pandas), visualization (Matplotlib, Seaborn) | 
-| SQL | Data extraction and transformation | 
-| Streamlit | Interactive web dashboard for displaying insights | 
-| Jupyter Notebook | Exploratory analysis and experimentation | 
-| VS Code | Development IDE | 
 
+| Python | Data manipulation (Pandas), visualization (Matplotlib, Seaborn) | 
+
+| SQL | Data extraction and transformation | 
+
+| Jupyter Notebook | Exploratory analysis and experimentation | 
 
 
 📈 Data Analysis Workflow
