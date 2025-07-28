@@ -39,7 +39,6 @@ This project focuses on extracting meaningful patterns from rental transactions.
 - Import rental data from CSV files and SQL databases
 - Data Cleaning
 - Resolve missing values, remove duplicates, and standardize formats
-- Exploratory Data Analysis (EDA)
 - Visualize rental activity and performance indicators
 - Dashboard Development
 - Build an interactive dashboard using Streamlit to communicate insights dynamically
